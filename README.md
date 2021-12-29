@@ -3,3 +3,6 @@ The project was done for a college class. It aimed to analyse the debate between
 
 The example:
 ![The_most_popular_common_words](https://user-images.githubusercontent.com/50794170/147664526-90996a77-01b3-4c67-840b-e67e1e78f652.png)
+
+The source:
+http://www.protorah.com/wp-content/uploads/2015/01/The-God-Delusion-Debate-Full-Transcript.pdf
